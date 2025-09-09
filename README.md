@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Sangsaptak 👋</h1>
   <p>
+    <b>B.Tech in Computer Science & Engineering (AI & ML)</b><br>
     Passionate about the future of Artificial Intelligence & Modern Software Engineering
   </p>
 </div>
@@ -27,7 +28,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="32" alt="HTML" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/chat-gpt-3629121-3030120.png" height="32" alt="ChatGPT" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="32" alt="Docker" /
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="32" alt="VSCode" />
 </p>
 
