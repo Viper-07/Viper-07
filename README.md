@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Sangsaptak 👋</h1>
   <p>
-    <b>B.Tech in Computer Science & Engineering (AI & ML)</b><br>
     Passionate about the future of Artificial Intelligence & Modern Software Engineering
   </p>
 </div>
@@ -10,7 +9,7 @@
 
 ## 📝 About Me
 
-- 🎓 <b>B.Tech in CSE (AI & ML)</b> @ Techno India University Tripura
+- 🎓 <b>B.Tech in CSE (AI & ML)</b>
 - 🤖 Working on <b>Generative AI</b> and <b>ML projects</b>
 - 🌱 Learning <b>TypeScript</b> & modern web development
 - 🏋️‍♂️ Fitness enthusiast, passionate about structured routines
